@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="score">Score</string>
+    <string name="maxScore">/10</string>
+    <string name="liveScore">0</string>
+    
+    <string name="ques1">1. Who introduced Computer Hard Drive ?</string>
+    <string name="ques1Op1">Microsoft</string>
+    <string name="ques1Op2">Apple</string>
+    <string name="ques1Op3">IBM</string>
+    <string name="ques1Op4">Dell</string>
+    <string name="ans1">IBM</string>
+
+    <string name="ques2">2. Apple\'s first computer name ?</string>
+    <string name="ques2Op1">Macintosh</string>
+    <string name="ques2Op2">Apple 1</string>
+    <string name="ques2Op3">LISA</string>
+    <string name="ques2Op4">Newton</string>
+    <string name="ans2">Apple 1</string>
+
+    <string name="ques3">3. Who created C language ?</string>
+    <string name="ques3Op1">Dennis Ritchie</string>
+    <string name="ques3Op2">Ken Thompson</string>
+    <string name="ques3Op3">Brian Kernighan</string>
+    <string name="ques3Op4">Linus Torvalds</string>
+    <string name="ans3">Dennis Ritchie</string>
+
+    <string name="ques4">4. What are binary language called ?</string>
+    <string name="ques4Op1">Computer Language</string>
+    <string name="ques4Op2">Assembly Language</string>
+    <string name="ques4Op3">Machine Language</string>
+    <string name="ques4Op4">Low Level Langauage</string>
+    <string name="ans4">Machine Language</string>
+
+    <string name="ques5">5. Protocol is used to recieve Email ?</string>
+    <string name="ques5Op1">SMPT</string>
+    <string name="ques5Op2">HTTP</string>
+    <string name="ques5Op3">FTP</string>
+    <string name="ques5Op4">POP3</string>
+    <string name="ans5">POP3</string>
+
+    <string name="ques6">6. Select Programming languages.</string>
+    <string name="ques6Op1">HTML</string>
+    <string name="ques6Op2">Python</string>
+    <string name="ques6Op3">C++</string>
+    <string name="ques6Op4">Java</string>
+    <string name="ans6">Python, C++, Java</string>
+
+    <string name="ques7">7. Select Internet Browsers.</string>
+    <string name="ques7Op1">MOSAIC</string>
+    <string name="ques7Op2">Safari</string>
+    <string name="ques7Op3">Ruby</string>
+    <string name="ques7Op4">Netscape Navigator</string>
+    <string name="ans7">MOSAIC, Safari, Netscape Navigator</string>
+
+    <string name="ques8">8. Who is the father of Computer ?</string>
+    <string name="ans8">Charles Babage</string>
+
+    <string name="nil"></string>
+    <string name="submitB">Submit</string>
+    <string name="resetB">Reset</string>
+</resources>
